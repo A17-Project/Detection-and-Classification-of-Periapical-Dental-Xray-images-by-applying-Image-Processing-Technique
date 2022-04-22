@@ -1,0 +1,1 @@
+# Detection-and-Classification-of-Periapical-Dental-Xray-images-by-applying-Image-Processing-Technique
